@@ -111,7 +111,7 @@ header h1 {
   flex-wrap: wrap;
 
   /* Add a margin at the top, so that when the user scrolls to the top of the
-    page, the notecards are note covered up by the header element. */
+    page, the notecards are not covered up by the header element. */
   margin-top: 100px;
 
   /* Add an extra margin on the bottom, so that when a user scrolls to the

@@ -39,7 +39,7 @@ document.querySelector('#notecard-two');
 
 ```
 // Method One:
-notecardTwo.querySelector('#notecard-two .note-title')
+document.querySelector('#notecard-two .note-title')
 
 // Method Two:
 const notecardTwo = document.querySelector('#notecard-two');
@@ -50,7 +50,7 @@ notecardTwo.querySelector('.note-title')
 
 ```
 // Method One:
-notecardTwo.querySelector('#notecard-three .icon-delete')
+document.querySelector('#notecard-three .icon-delete')
 
 // Method Two:
 const notecardThree = document.querySelector('#notecard-three');
